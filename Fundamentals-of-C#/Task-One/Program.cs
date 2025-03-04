@@ -35,7 +35,7 @@ for ( int i =0; i < numSub; i++) {
 
 static double CalculateAverage(Dictionary<string, int> grades) {
 
-    if (grades.Count == 0) return 0; // Prevent division by zero
+    if (grades.Count == 0) return 0; 
 
 
     double sum = 0;
