@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "word-freq-count/1.0.0": {
+        "runtime": {
+          "word-freq-count.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "word-freq-count/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

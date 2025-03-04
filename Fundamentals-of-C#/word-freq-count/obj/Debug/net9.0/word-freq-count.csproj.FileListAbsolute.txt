@@ -1,0 +1,15 @@
+C:\Users\HP ENVY\OneDrive\Desktop\dev\.NET-Learning-Path\Fundamentals-of-C#\word-freq-count\bin\Debug\net9.0\word-freq-count.exe
+C:\Users\HP ENVY\OneDrive\Desktop\dev\.NET-Learning-Path\Fundamentals-of-C#\word-freq-count\bin\Debug\net9.0\word-freq-count.deps.json
+C:\Users\HP ENVY\OneDrive\Desktop\dev\.NET-Learning-Path\Fundamentals-of-C#\word-freq-count\bin\Debug\net9.0\word-freq-count.runtimeconfig.json
+C:\Users\HP ENVY\OneDrive\Desktop\dev\.NET-Learning-Path\Fundamentals-of-C#\word-freq-count\bin\Debug\net9.0\word-freq-count.dll
+C:\Users\HP ENVY\OneDrive\Desktop\dev\.NET-Learning-Path\Fundamentals-of-C#\word-freq-count\bin\Debug\net9.0\word-freq-count.pdb
+C:\Users\HP ENVY\OneDrive\Desktop\dev\.NET-Learning-Path\Fundamentals-of-C#\word-freq-count\obj\Debug\net9.0\word-freq-count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ENVY\OneDrive\Desktop\dev\.NET-Learning-Path\Fundamentals-of-C#\word-freq-count\obj\Debug\net9.0\word-freq-count.AssemblyInfoInputs.cache
+C:\Users\HP ENVY\OneDrive\Desktop\dev\.NET-Learning-Path\Fundamentals-of-C#\word-freq-count\obj\Debug\net9.0\word-freq-count.AssemblyInfo.cs
+C:\Users\HP ENVY\OneDrive\Desktop\dev\.NET-Learning-Path\Fundamentals-of-C#\word-freq-count\obj\Debug\net9.0\word-freq-count.csproj.CoreCompileInputs.cache
+C:\Users\HP ENVY\OneDrive\Desktop\dev\.NET-Learning-Path\Fundamentals-of-C#\word-freq-count\obj\Debug\net9.0\word-freq-count.sourcelink.json
+C:\Users\HP ENVY\OneDrive\Desktop\dev\.NET-Learning-Path\Fundamentals-of-C#\word-freq-count\obj\Debug\net9.0\word-freq-count.dll
+C:\Users\HP ENVY\OneDrive\Desktop\dev\.NET-Learning-Path\Fundamentals-of-C#\word-freq-count\obj\Debug\net9.0\refint\word-freq-count.dll
+C:\Users\HP ENVY\OneDrive\Desktop\dev\.NET-Learning-Path\Fundamentals-of-C#\word-freq-count\obj\Debug\net9.0\word-freq-count.pdb
+C:\Users\HP ENVY\OneDrive\Desktop\dev\.NET-Learning-Path\Fundamentals-of-C#\word-freq-count\obj\Debug\net9.0\word-freq-count.genruntimeconfig.cache
+C:\Users\HP ENVY\OneDrive\Desktop\dev\.NET-Learning-Path\Fundamentals-of-C#\word-freq-count\obj\Debug\net9.0\ref\word-freq-count.dll
